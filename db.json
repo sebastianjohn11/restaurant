@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": "752e",
+      "name": "ban",
+      "email": "wedfn@gamial.com",
+      "password": "656i3"
+    },
+    {
+      "id": "be96",
+      "name": "max millian",
+      "email": "max@mymail.com",
+      "password": "max millain"
+    },
+    {
+      "id": "5c5a",
+      "name": "messi",
+      "email": "messi@mess.come",
+      "password": "messi1"
+    },
+    {
+      "id": "15fd",
+      "name": "sixm",
+      "email": "jij@gasmail.come",
+      "password": "673ij"
+    },
+    {
+      "id": "9c3c",
+      "name": "lion",
+      "email": "sam@lion.com",
+      "password": "sam123"
+    },
+    {
+      "id": "848c",
+      "name": "ban",
+      "email": "wedfn@gamial.com",
+      "password": "656i3"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Pizza Puttano",
+      "address": "st george street",
+      "phone": "536789"
+    },
+    {
+      "id": "7ded",
+      "name": "mams beest",
+      "address": " karerms steet 23",
+      "phone": "234666444"
+    },
+    {
+      "name": "tatus joseph",
+      "address": "joseph house , street 234, kottayam",
+      "phone": "2343466",
+      "id": "bfab"
+    }
+  ],
+  "menu": [
+    {
+      "id": "34",
+      "name": "Pizza",
+      "price": "150"
+    },
+    {
+      "id": "23",
+      "name": "Alfaam",
+      "price": "150"
+    },
+    {
+      "id": "334",
+      "name": "Cheken byiriyani",
+      "price": "150"
+    },
+    {
+      "id": "34",
+      "name": "Meals",
+      "price": "100"
+    },
+    {
+      "id": "34q",
+      "name": "Masaala Dhosa",
+      "price": "70"
+    },
+    {
+      "id": "3Q4q",
+      "name": "Special Masaala Chiken Curry",
+      "price": "270"
+    },
+    {
+      "id": "34Qq",
+      "name": "Special Masaala Fish Curry",
+      "price": "230"
+    },
+    {
+      "id": "348q",
+      "name": "Paroota",
+      "price": "20"
+    },
+    {
+      "id": "3482",
+      "name": "Chapaathi and Chilly Checken",
+      "price": "250"
+    }
+  ]
+}
